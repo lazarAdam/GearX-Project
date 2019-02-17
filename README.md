@@ -10,9 +10,9 @@ Instruction on how to start the website:
 # Screenshots
 
 ![rsz_smartselect_20180505-092337](https://raw.githubusercontent.com/lazarAdam/GearX-website/master/Screenshot_2019-02-17%20GearX.png)
-<br\>
+<br/>
 ![rsz_smartselect_20180505-092337](https://raw.githubusercontent.com/lazarAdam/GearX-website/master/Screenshot_2019-02-17%20contact%20us.png)
-<br\>
+<br/>
 ![rsz_smartselect_20180505-092337](https://raw.githubusercontent.com/lazarAdam/GearX-website/master/Screenshot_2019-02-17%20ministore.jpg)
 <br\>
 ![rsz_smartselect_20180505-092337](https://raw.githubusercontent.com/lazarAdam/GearX-website/master/Screenshot_2019-02-17%20SETUP5.jpg)
