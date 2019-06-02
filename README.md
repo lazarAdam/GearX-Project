@@ -1,4 +1,4 @@
-# GearX-website
+# GearX-project
 Front-end of a blog/shopping website
 
 Instruction on how to start the website:
